@@ -1,3 +1,5 @@
 # SEII_TravisCI_Demo 
 
-Test GitHub Action! test 1
+Test GitHub Action! test. 
+
+Trigger the Github Action.
